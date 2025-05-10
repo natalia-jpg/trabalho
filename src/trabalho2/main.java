@@ -12,5 +12,6 @@ public class main {
 	        meuCachorro.emitirSom();
 
 	        logger.info("Programa finalizado.");
+	        2
 	    }
 	}
